@@ -3,6 +3,8 @@ contains open source softwares for both pc and android
 
 # Android
 
+AL-chan:- [Link](https://github.com/zend10/AL-chan) 
+
 Animiru:- [Link](https://github.com/quickdesh/Animiru)
 
 Aliucord:- [Link](https://github.com/Aliucord/Aliucord)
@@ -21,9 +23,15 @@ ExteraGram:- [Link](https://github.com/exteraSquad/exteraGram)
 
 Iceraven Browser:- [Link](https://github.com/fork-maintainers/iceraven-browser)
 
+Kotatsu:- [Link](https://github.com/KotatsuApp/Kotatsu)
+
+LNReader:- [Link](https://github.com/LNReader/lnreader)
+
 Miru App:- [Link](https://github.com/miru-project/miru-app)
 
 Mangayomi:- [Link](https://github.com/kodjodevf/mangayomi)
+
+Neko App:- [Link](https://github.com/nekomangaorg/Neko)
 
 RiMusic:- [Link](https://github.com/fast4x/RiMusic)
 
