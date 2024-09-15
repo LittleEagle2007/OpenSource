@@ -29,4 +29,6 @@ xManager(Spotify):- [Link](https://github.com/Team-xManager/xManager)
 
 # Pc
 
+Miru:- [Link](https://github.com/ThaUnknown/miru)
+
 Miru Software:- [Link](https://github.com/miru-project/miru-app)
