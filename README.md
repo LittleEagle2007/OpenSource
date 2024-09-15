@@ -23,7 +23,11 @@ Iceraven Browser:- [Link](https://github.com/fork-maintainers/iceraven-browser)
 
 Miru App:- [Link](https://github.com/miru-project/miru-app)
 
+Mangayomi:- [Link](https://github.com/kodjodevf/mangayomi)
+
 RiMusic:- [Link](https://github.com/fast4x/RiMusic)
+
+Shosetsu App:- [Link](https://gitlab.com/shosetsuorg/shosetsu)
 
 xManager(Spotify):- [Link](https://github.com/Team-xManager/xManager)
 
@@ -32,5 +36,7 @@ xManager(Spotify):- [Link](https://github.com/Team-xManager/xManager)
 HakuNeko Manga & Anime Downloader:- [Link](https://hakuneko.download/)
 
 Miru:- [Link](https://github.com/ThaUnknown/miru)
+
+Mangayomi:- [Link](https://github.com/kodjodevf/mangayomi)
 
 Miru Software:- [Link](https://github.com/miru-project/miru-app)
