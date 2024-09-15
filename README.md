@@ -23,13 +23,19 @@ ExteraGram:- [Link](https://github.com/exteraSquad/exteraGram)
 
 Iceraven Browser:- [Link](https://github.com/fork-maintainers/iceraven-browser)
 
+K-9 Mail:- [Link](https://github.com/thunderbird/thunderbird-android)
+
 Kotatsu:- [Link](https://github.com/KotatsuApp/Kotatsu)
 
 LNReader:- [Link](https://github.com/LNReader/lnreader)
 
+Monocles Browser:- [Link](https://f-droid.org/en/packages/de.monocles.browser)
+
 Miru App:- [Link](https://github.com/miru-project/miru-app)
 
 Mangayomi:- [Link](https://github.com/kodjodevf/mangayomi)
+
+Nekogram X:- [Link](https://nekogram.app)
 
 Neko App:- [Link](https://github.com/nekomangaorg/Neko)
 
