@@ -53,11 +53,17 @@ Neko App:- [Link](https://github.com/nekomangaorg/Neko)
 
 Namida:- [Link](https://namidaapk.com)
 
+Obtainium:- [Link](https://github.com/ImranR98/Obtainium)
+
 RiMusic:- [Link](https://github.com/fast4x/RiMusic)
+
+SD Maid 2/SE:- [Link](https://github.com/d4rken-org/sdmaid-se)
 
 Shosetsu App:- [Link](https://gitlab.com/shosetsuorg/shosetsu)
 
 Spotube:- [Link](https://spotube.krtirtho.dev)
+
+Showly:- [Link](http://showlyapp.com)
 
 xManager(Spotify):- [Link](https://github.com/Team-xManager/xManager)
 
