@@ -3,16 +3,16 @@ contains open source softwares for both pc and android
 
 # Android
 
+Awery - The Best Mobile Anime App  :- [Link](https://github.com/MrBoomDeveloper/Awery)
+
 Ceno Browser :-  [Link](https://censorship.no/en/index.html)
 
-Awery - The Best Mobile Anime App  :- Link
+Cromite (a Bromite fork) :- [Link](https://github.com/uazo/cromite)
 
-Cromite (a Bromite fork) :- Link
+Dantotsu :- [Link](https://github.com/rebelonion/Dantotsu)
 
-RiMusic :- Link
+RiMusic :- [Link](https://github.com/fast4x/RiMusic)
 
-Dantotsu :- Link
-
-xManager (Spotify):- Link
+xManager (Spotify):- [Link](https://github.com/Team-xManager/xManager)
 
 # Pc
