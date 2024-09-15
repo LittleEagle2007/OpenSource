@@ -29,6 +29,8 @@ xManager(Spotify):- [Link](https://github.com/Team-xManager/xManager)
 
 # Pc
 
+HakuNeko Manga & Anime Downloader:- [Link](https://hakuneko.download/)
+
 Miru:- [Link](https://github.com/ThaUnknown/miru)
 
 Miru Software:- [Link](https://github.com/miru-project/miru-app)
