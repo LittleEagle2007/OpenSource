@@ -3,6 +3,8 @@ contains open source softwares for both pc and android
 
 # Android
 
+APKUpdater:- [Link](https://github.com/rumboalla/apkupdater)
+
 Amarok-Hider:- [Link](https://github.com/deltazefiro/Amarok-Hider)
 
 AL-chan:- [Link](https://github.com/zend10/AL-chan) 
@@ -65,7 +67,13 @@ Spotube:- [Link](https://spotube.krtirtho.dev)
 
 Showly:- [Link](http://showlyapp.com)
 
+Termux-Monet:- [Link](https://github.com/Termux-Monet/termux-monet)
+
+Update Me:- [Link](https://github.com/anfreire/updateMe-Mobile)
+
 xManager(Spotify):- [Link](https://github.com/Team-xManager/xManager)
+
+YTDLnis:- [Link](https://github.com/deniscerri/ytdlnis)
 
 # Pc
 
