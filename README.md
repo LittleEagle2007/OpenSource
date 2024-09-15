@@ -3,6 +3,8 @@ contains open source softwares for both pc and android
 
 # Android
 
+Animiru:- [Link](https://github.com/quickdesh/Animiru)
+
 Aliucord:- [Link](https://github.com/Aliucord/Aliucord)
 
 Awery-The Best Mobile Anime App:- [Link](https://github.com/MrBoomDeveloper/Awery)
@@ -14,6 +16,8 @@ Ceno Browser:- [Link](https://censorship.no/en/index.html)
 Cromite(a Bromite fork):- [Link](https://github.com/uazo/cromite)
 
 Dantotsu:- [Link](https://github.com/rebelonion/Dantotsu)
+
+ExteraGram:- [Link](https://github.com/exteraSquad/exteraGram)
 
 Iceraven Browser:- [Link](https://github.com/fork-maintainers/iceraven-browser)
 
