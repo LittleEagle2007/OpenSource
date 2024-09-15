@@ -3,6 +3,8 @@ contains open source softwares for both pc and android
 
 # Android
 
+Amarok-Hider:- [Link](https://github.com/deltazefiro/Amarok-Hider)
+
 AL-chan:- [Link](https://github.com/zend10/AL-chan) 
 
 Animiru:- [Link](https://github.com/quickdesh/Animiru)
@@ -17,9 +19,15 @@ Ceno Browser:- [Link](https://censorship.no/en/index.html)
 
 Cromite(a Bromite fork):- [Link](https://github.com/uazo/cromite)
 
+CloudStream:- [Link](https://cloudstream.ws)
+
+DataBackup:- [Link](https://github.com/XayahSuSuSu/Android-DataBackup)
+
 Dantotsu:- [Link](https://github.com/rebelonion/Dantotsu)
 
 ExteraGram:- [Link](https://github.com/exteraSquad/exteraGram)
+
+Fossify Calendar:- [Link](https://github.com/FossifyOrg/Calendar)
 
 Iceraven Browser:- [Link](https://github.com/fork-maintainers/iceraven-browser)
 
@@ -27,7 +35,11 @@ K-9 Mail:- [Link](https://github.com/thunderbird/thunderbird-android)
 
 Kotatsu:- [Link](https://github.com/KotatsuApp/Kotatsu)
 
+LinkSheet:- [Link](https://github.com/LinkSheet/LinkSheet)
+
 LNReader:- [Link](https://github.com/LNReader/lnreader)
+
+LocalSend:- [Link](https://localsend.org)
 
 Monocles Browser:- [Link](https://f-droid.org/en/packages/de.monocles.browser)
 
@@ -38,6 +50,8 @@ Mangayomi:- [Link](https://github.com/kodjodevf/mangayomi)
 Nekogram X:- [Link](https://nekogram.app)
 
 Neko App:- [Link](https://github.com/nekomangaorg/Neko)
+
+Namida:- [Link](https://namidaapk.com)
 
 RiMusic:- [Link](https://github.com/fast4x/RiMusic)
 
