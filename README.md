@@ -21,8 +21,12 @@ ExteraGram:- [Link](https://github.com/exteraSquad/exteraGram)
 
 Iceraven Browser:- [Link](https://github.com/fork-maintainers/iceraven-browser)
 
+Miru App:- [Link](https://github.com/miru-project/miru-app)
+
 RiMusic:- [Link](https://github.com/fast4x/RiMusic)
 
 xManager(Spotify):- [Link](https://github.com/Team-xManager/xManager)
 
 # Pc
+
+Miru Software:- [Link](https://github.com/miru-project/miru-app)
