@@ -43,6 +43,8 @@ RiMusic:- [Link](https://github.com/fast4x/RiMusic)
 
 Shosetsu App:- [Link](https://gitlab.com/shosetsuorg/shosetsu)
 
+Spotube:- [Link](https://spotube.krtirtho.dev)
+
 xManager(Spotify):- [Link](https://github.com/Team-xManager/xManager)
 
 # Pc
