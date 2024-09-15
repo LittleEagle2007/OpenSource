@@ -1,6 +1,8 @@
 # OpenSource
 contains open source softwares for both pc and android
 
+# Android
+
 Ceno Browser :-  Link
 
 Awery - The Best Mobile Anime App  :- Link
@@ -12,3 +14,5 @@ RiMusic :- Link
 Dantotsu :- Link
 
 xManager (Spotify):- Link
+
+# Pc
