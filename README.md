@@ -43,6 +43,8 @@ LNReader:- [Link](https://github.com/LNReader/lnreader)
 
 LocalSend:- [Link](https://localsend.org)
 
+Linkora:- [Link](https://github.com/sakethpathike/Linkora)
+
 Monocles Browser:- [Link](https://f-droid.org/en/packages/de.monocles.browser)
 
 Miru App:- [Link](https://github.com/miru-project/miru-app)
@@ -72,6 +74,8 @@ Termux-Monet:- [Link](https://github.com/Termux-Monet/termux-monet)
 ToDark:- [Link](https://github.com/darkmoonight/ToDark)
 
 Update Me:- [Link](https://github.com/anfreire/updateMe-Mobile)
+
+WeatherMaster:- [Link](https://github.com/PranshulGG/WeatherMaster?tab=readme-ov-file)
 
 xManager(Spotify):- [Link](https://github.com/Team-xManager/xManager)
 
