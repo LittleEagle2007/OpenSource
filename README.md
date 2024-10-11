@@ -37,6 +37,8 @@ K-9 Mail:- [Link](https://github.com/thunderbird/thunderbird-android)
 
 Kotatsu:- [Link](https://github.com/KotatsuApp/Kotatsu)
 
+Kitsune:- [Link](https://github.com/Drumber/Kitsune)
+
 LinkSheet:- [Link](https://github.com/LinkSheet/LinkSheet)
 
 LNReader:- [Link](https://github.com/LNReader/lnreader)
