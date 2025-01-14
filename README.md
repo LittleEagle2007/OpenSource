@@ -3,14 +3,6 @@ contains open source softwares for both pc and android
 
 # Android
 
-AL-chan:- [Link](https://github.com/zend10/AL-chan) 
-
-Animiru:- [Link](https://github.com/quickdesh/Animiru)
-
-Aliucord:- [Link](https://github.com/Aliucord/Aliucord)
-
-Awery-The Best Mobile Anime App:- [Link](https://github.com/MrBoomDeveloper/Awery)
-
 Bromite–Take back your browser:- [Link](https://github.com/bromite/bromite)
 
 Ceno Browser:- [Link](https://censorship.no/en/index.html)
@@ -20,8 +12,6 @@ Cromite(a Bromite fork):- [Link](https://github.com/uazo/cromite)
 CloudStream:- [Link](https://cloudstream.ws)
 
 DataBackup:- [Link](https://github.com/XayahSuSuSu/Android-DataBackup)
-
-Dantotsu:- [Link](https://github.com/rebelonion/Dantotsu)
 
 ExteraGram:- [Link](https://github.com/exteraSquad/exteraGram)
 
