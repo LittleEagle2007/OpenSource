@@ -3,10 +3,6 @@ contains open source softwares for both pc and android
 
 # Android
 
-APKUpdater:- [Link](https://github.com/rumboalla/apkupdater)
-
-Amarok-Hider:- [Link](https://github.com/deltazefiro/Amarok-Hider)
-
 AL-chan:- [Link](https://github.com/zend10/AL-chan) 
 
 Animiru:- [Link](https://github.com/quickdesh/Animiru)
