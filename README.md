@@ -3,8 +3,6 @@ contains open source softwares for both pc and android
 
 # Android
 
-DataBackup:- [Link](https://github.com/XayahSuSuSu/Android-DataBackup)
-
 ExteraGram:- [Link](https://github.com/exteraSquad/exteraGram)
 
 Fossify Calendar:- [Link](https://github.com/FossifyOrg/Calendar)
