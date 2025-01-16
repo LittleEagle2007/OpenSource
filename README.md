@@ -3,14 +3,6 @@ contains open source softwares for both pc and android
 
 # Android
 
-Bromite–Take back your browser:- [Link](https://github.com/bromite/bromite)
-
-Ceno Browser:- [Link](https://censorship.no/en/index.html)
-
-Cromite(a Bromite fork):- [Link](https://github.com/uazo/cromite)
-
-CloudStream:- [Link](https://cloudstream.ws)
-
 DataBackup:- [Link](https://github.com/XayahSuSuSu/Android-DataBackup)
 
 ExteraGram:- [Link](https://github.com/exteraSquad/exteraGram)
