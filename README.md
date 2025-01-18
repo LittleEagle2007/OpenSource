@@ -3,10 +3,6 @@ contains open source softwares for both pc and android
 
 # Android
 
-Fossify Calendar:- [Link](https://github.com/FossifyOrg/Calendar)
-
-Iceraven Browser:- [Link](https://github.com/fork-maintainers/iceraven-browser)
-
 K-9 Mail:- [Link](https://github.com/thunderbird/thunderbird-android)
 
 Kotatsu:- [Link](https://github.com/KotatsuApp/Kotatsu)
