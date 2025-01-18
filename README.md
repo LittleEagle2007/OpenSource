@@ -1,10 +1,7 @@
 # OpenSource
-contains open source softwares for both pc and android
+contains open source softwares for both pc and android 
 
 # Android 
-Kotatsu:- [Link](https://github.com/KotatsuApp/Kotatsu)
-
-Kitsune:- [Link](https://github.com/Drumber/Kitsune)
 
 LinkSheet:- [Link](https://github.com/LinkSheet/LinkSheet)
 
