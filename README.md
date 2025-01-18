@@ -3,14 +3,6 @@ contains open source softwares for both pc and android
 
 # Android 
 
-LinkSheet:- [Link](https://github.com/LinkSheet/LinkSheet)
-
-LNReader:- [Link](https://github.com/LNReader/lnreader)
-
-LocalSend:- [Link](https://localsend.org)
-
-Linkora:- [Link](https://github.com/sakethpathike/Linkora)
-
 Monocles Browser:- [Link](https://f-droid.org/en/packages/de.monocles.browser)
 
 Miru App:- [Link](https://github.com/miru-project/miru-app)
