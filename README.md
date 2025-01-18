@@ -1,10 +1,7 @@
 # OpenSource
 contains open source softwares for both pc and android
 
-# Android
-
-K-9 Mail:- [Link](https://github.com/thunderbird/thunderbird-android)
-
+# Android 
 Kotatsu:- [Link](https://github.com/KotatsuApp/Kotatsu)
 
 Kitsune:- [Link](https://github.com/Drumber/Kitsune)
