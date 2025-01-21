@@ -3,10 +3,6 @@ contains open source softwares for both pc and android
 
 # Android 
 
-Neko App:- [Link](https://github.com/nekomangaorg/Neko)
-
-Namida:- [Link](https://namidaapk.com)
-
 Obtainium:- [Link](https://github.com/ImranR98/Obtainium)
 
 RiMusic:- [Link](https://github.com/fast4x/RiMusic)
