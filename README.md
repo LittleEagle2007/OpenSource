@@ -3,14 +3,6 @@ contains open source softwares for both pc and android
 
 # Android 
 
-Monocles Browser:- [Link](https://f-droid.org/en/packages/de.monocles.browser)
-
-Miru App:- [Link](https://github.com/miru-project/miru-app)
-
-Mangayomi:- [Link](https://github.com/kodjodevf/mangayomi)
-
-Nekogram X:- [Link](https://nekogram.app)
-
 Neko App:- [Link](https://github.com/nekomangaorg/Neko)
 
 Namida:- [Link](https://namidaapk.com)
