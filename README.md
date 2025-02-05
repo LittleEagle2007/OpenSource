@@ -1,5 +1,6 @@
-# OpenSource
-## open source softwares for both pc and android 
+![logo](https://github.com/user-attachments/assets/87131d2e-10bb-405e-9240-3d589b9ef9e2)
+
+# open source softwares for both pc and android 
 
 ![Image](https://github.com/user-attachments/assets/ba8fc520-199d-4203-bf78-d38f0df02565)
 
