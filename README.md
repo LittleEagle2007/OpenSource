@@ -1,5 +1,5 @@
 # OpenSource
-contains open source softwares for both pc and android 
+## contains open source softwares for both pc and android 
 
 ![Image](https://github.com/user-attachments/assets/ba8fc520-199d-4203-bf78-d38f0df02565)
 
