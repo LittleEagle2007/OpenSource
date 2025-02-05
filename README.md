@@ -69,9 +69,7 @@ xManager(Spotify):- [Link](https://www.xmanagerapp.com)
 
 YTDLnis:- [Link](https://ytdlnis.org)
 
-
-
-![Image](https://github.com/user-attachments/assets/8a3df929-75b8-422e-8d48-51b22b9ced27)
+# PC
 
 HakuNeko Manga & Anime Downloader:- [Link](https://hakuneko.download/)
 
