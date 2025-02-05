@@ -1,7 +1,7 @@
 # OpenSource
 contains open source softwares for both pc and android 
 
-# Android
+![Image](https://github.com/user-attachments/assets/ba8fc520-199d-4203-bf78-d38f0df02565)
 
 APKUpdater:- [Link](https://github.com/rumboalla/apkupdater)
 
@@ -51,15 +51,13 @@ RiMusic:- [Link](https://github.com/fast4x/RiMusic)
 
 SD Maid 2/SE:- [Link](https://github.com/d4rken-org/sdmaid-se)
 
-Spotube:- [Link](https://spotube.krtirtho.dev)
-
 Showly:- [Link](http://showlyapp.com)
 
 Termux-Monet:- [Link](https://github.com/Termux-Monet/termux-monet)
 
 ToDark:- [Link](https://github.com/darkmoonight/ToDark)
 
-Thunderbird Mail:- [Link](https://www.thunderbird.net/en-US)
+TachiyomiSY:- [Link](https://github.com/jobobby04/TachiyomiSY)
 
 Update Me:- [Link](https://github.com/anfreire/updateMe-Mobile)
 
@@ -75,6 +73,10 @@ HakuNeko Manga & Anime Downloader:- [Link](https://hakuneko.download/)
 
 Miru:- [Link](https://github.com/ThaUnknown/miru)
 
-Mangayomi:- [Link](https://github.com/kodjodevf/mangayomi)
+Unyo:- [Link](https://github.com/K3vinb5/Unyo)
 
-Miru Software:- [Link](https://github.com/miru-project/miru-app)
+# Multi
+
+Spotube:- [Link](https://spotube.krtirtho.dev)
+
+Thunderbird Mail:- [Link](https://www.thunderbird.net/en-US)
