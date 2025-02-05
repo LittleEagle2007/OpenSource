@@ -7,6 +7,8 @@
 
 AzyX:- [Link](https://github.com/reyyuuki/Azyx)
 
+Anilab:- [Link](https://anilab.to)
+
 APKUpdater:- [Link](https://github.com/rumboalla/apkupdater)
 
 Amarok:- [Link](https://deltazefiro.github.io/Amarok-doc/en-US)
