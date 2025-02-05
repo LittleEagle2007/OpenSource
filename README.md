@@ -3,7 +3,7 @@ contains open source softwares for both pc and android
 
 # Android
 
-APKUpdater:- (Link)(https://github.com/rumboalla/apkupdater)
+APKUpdater:- [Link](https://github.com/rumboalla/apkupdater)
 
 Obtainium:- [Link](https://github.com/ImranR98/Obtainium)
 
