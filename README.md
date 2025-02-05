@@ -7,7 +7,19 @@ APKUpdater:- [Link](https://github.com/rumboalla/apkupdater)
 
 Amarok:- [Link](https://deltazefiro.github.io/Amarok-doc/en-US)
 
+AL-chan:- [Link](https://zend10.github.io/AL-chan)
 
+Ceno Browser:- [Link](https://censorship.no/en/index.html)
+
+Cromite:- [Link](https://github.com/uazo/cromite)
+
+CloudStream:- [Link](https://cloudstream.ws)
+
+Dantotsu:- [Link](https://github.com/rebelonion/Dantotsu)
+
+DataBackup:- [Link](https://databackupofficial.github.io)
+
+ExteraGram:-[Link](https://exteragram.app)
 
 Obtainium:- [Link](https://github.com/ImranR98/Obtainium)
 
