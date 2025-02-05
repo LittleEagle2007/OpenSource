@@ -21,6 +21,30 @@ DataBackup:- [Link](https://databackupofficial.github.io)
 
 ExteraGram:-[Link](https://exteragram.app)
 
+Fossify Calendar:- [Link](https://www.fossify.org/apps)
+
+Fennec Browser:- [Link](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid)
+
+Iceraven Browser:- [Link](https://github.com/fork-maintainers/iceraven-browser)
+
+Kotatsu:- [Link](https://kotatsu.app)
+
+Kitsune:- [Link](https://github.com/Drumber/Kitsune)
+
+LinkSheet:- [Link](https://github.com/LinkSheet/LinkSheet)
+
+LNReader:- [Link](https://lnreader.github.io)
+
+LocalSend:- [Link](https://localsend.org)
+
+Linkora:-[Link](https://github.com/LinkoraApp/Linkora)
+
+Monocles Browser:- [Link](https://f-droid.org/en/packages/de.monocles.browser)
+
+Nekogram X:- [Link](https://nekogram.app)
+
+Namida:- [Link](https://namidaapk.com)
+
 Obtainium:- [Link](https://github.com/ImranR98/Obtainium)
 
 RiMusic:- [Link](https://github.com/fast4x/RiMusic)
@@ -34,6 +58,8 @@ Showly:- [Link](http://showlyapp.com)
 Termux-Monet:- [Link](https://github.com/Termux-Monet/termux-monet)
 
 ToDark:- [Link](https://github.com/darkmoonight/ToDark)
+
+Thunderbird Mail:- [Link](https://www.thunderbird.net/en-US)
 
 Update Me:- [Link](https://github.com/anfreire/updateMe-Mobile)
 
