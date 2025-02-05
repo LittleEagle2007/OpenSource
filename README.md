@@ -65,9 +65,9 @@ Update Me:- [Link](https://github.com/anfreire/updateMe-Mobile)
 
 WeatherMaster:- [Link](https://github.com/PranshulGG/WeatherMaster?tab=readme-ov-file)
 
-xManager(Spotify):- [Link](https://github.com/Team-xManager/xManager)
+xManager(Spotify):- [Link](https://www.xmanagerapp.com)
 
-YTDLnis:- [Link](https://github.com/deniscerri/ytdlnis)
+YTDLnis:- [Link](https://ytdlnis.org)
 
 # Pc
 
