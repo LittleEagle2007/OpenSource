@@ -81,11 +81,17 @@ Miru:- [Link](https://github.com/ThaUnknown/miru)
 
 NanaZip:- [Link](https://github.com/M2Team/NanaZip)
 
+Open Video Downloader:- [Link](https://github.com/StefanLobbenmeier/youtube-dl-gui)
+
+Parabolic:- [Link](https://github.com/NickvisionApps/Parabolic)
+
 Screenbox:- [Link](https://github.com/huynhsontung/Screenbox)
 
 TrafficMonitor:- [Link](https://github.com/zhongyang219/TrafficMonitor/tree/master)
 
 Unyo:- [Link](https://github.com/K3vinb5/Unyo)
+
+Tartube:- [Link](https://github.com/axcore/tartube)
 
 # Multi
 
