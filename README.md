@@ -75,6 +75,8 @@ YTDLnis:- [Link](https://ytdlnis.org)
 
 # PC
 
+Akuse:- [Link](https://github.com/akuse-app/Akuse)
+
 HakuNeko Manga & Anime Downloader:- [Link](https://hakuneko.download/)
 
 Miru:- [Link](https://github.com/ThaUnknown/miru)
@@ -94,6 +96,8 @@ Unyo:- [Link](https://github.com/K3vinb5/Unyo)
 Tartube:- [Link](https://github.com/axcore/tartube)
 
 # Multi
+
+Migu:- [Link](https://miguapp.pages.dev)
 
 Spotube:- [Link](https://spotube.krtirtho.dev)
 
