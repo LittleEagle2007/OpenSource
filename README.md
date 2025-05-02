@@ -37,6 +37,8 @@ Kotatsu:- [Link](https://kotatsu.app)
 
 Kitsune:- [Link](https://github.com/Drumber/Kitsune)
 
+Kreate:- [Link](https://github.com/knighthat/Kreate)
+
 LinkSheet:- [Link](https://github.com/LinkSheet/LinkSheet)
 
 LNReader:- [Link](https://lnreader.github.io)
@@ -50,6 +52,8 @@ Monocles Browser:- [Link](https://f-droid.org/en/packages/de.monocles.browser)
 Nekogram X:- [Link](https://nekogram.app)
 
 Namida:- [Link](https://namidaapk.com)
+
+Nobook:- [Link](https://github.com/ycngmn/Nobook)
 
 Obtainium:- [Link](https://github.com/ImranR98/Obtainium)
 
@@ -101,4 +105,8 @@ Migu:- [Link](https://miguapp.pages.dev)
 
 Spotube:- [Link](https://spotube.krtirtho.dev)
 
+Sefirah:- [Link](https://github.com/shrimqy/Sefirah)
+
 Thunderbird Mail:- [Link](https://www.thunderbird.net/en-US)
+
+Thorium:- [Link](https://thorium.rocks)
