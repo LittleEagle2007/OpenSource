@@ -5,6 +5,8 @@
 
 ![Image](https://github.com/user-attachments/assets/ba8fc520-199d-4203-bf78-d38f0df02565)
 
+Auxio:- [Link](https://github.com/OxygenCobalt/Auxio)
+
 AzyX:- [Link](https://github.com/reyyuuki/Azyx)
 
 Anilab:- [Link](https://anilab.to)
@@ -29,7 +31,11 @@ ExteraGram:-[Link](https://exteragram.app)
 
 Fossify Calendar:- [Link](https://www.fossify.org/apps)
 
+Find My Device (FMD):- [Link](https://f-droid.org/en/packages/de.nulide.findmydevice)
+
 Fennec Browser:- [Link](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid)
+
+FUTO Keyboard:- [Link](https://keyboard.futo.org)
 
 Iceraven Browser:- [Link](https://github.com/fork-maintainers/iceraven-browser)
 
@@ -55,11 +61,15 @@ Namida:- [Link](https://namidaapk.com)
 
 Nobook:- [Link](https://github.com/ycngmn/Nobook)
 
+Notally:- [Link](https://github.com/OmGodse/Notally)
+
 Obtainium:- [Link](https://github.com/ImranR98/Obtainium)
 
 RiMusic:- [Link](https://github.com/fast4x/RiMusic)
 
 SD Maid 2/SE:- [Link](https://github.com/d4rken-org/sdmaid-se)
+
+SlimSocial:- [Link](https://github.com/rignaneseleo/SlimSocial-for-Facebook)
 
 Showly:- [Link](http://showlyapp.com)
 
@@ -100,6 +110,10 @@ Unyo:- [Link](https://github.com/K3vinb5/Unyo)
 Tartube:- [Link](https://github.com/axcore/tartube)
 
 # Multi
+
+Grayjay:- [Link](https://grayjay.app)
+
+KDE Connect:- [Link](https://kdeconnect.kde.org)
 
 Migu:- [Link](https://miguapp.pages.dev)
 
