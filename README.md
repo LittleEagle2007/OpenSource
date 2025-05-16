@@ -95,7 +95,11 @@ HakuNeko Manga & Anime Downloader:- [Link](https://hakuneko.download/)
 
 Miru:- [Link](https://github.com/ThaUnknown/miru)
 
+Moosync:- [Link](https://github.com/Moosync/Moosync)
+
 NanaZip:- [Link](https://github.com/M2Team/NanaZip)
+
+Nora:- [Link](https://noramusic.netlify.app)
 
 Open Video Downloader:- [Link](https://github.com/StefanLobbenmeier/youtube-dl-gui)
 
@@ -109,7 +113,13 @@ Unyo:- [Link](https://github.com/K3vinb5/Unyo)
 
 Tartube:- [Link](https://github.com/axcore/tartube)
 
+Tauon:- [Link](https://github.com/Taiko2k/Tauon)
+
+Ytmdesktop2:- [Link](https://github.com/Venipa/ytmdesktop2)
+
 # Multi
+
+Gyawun Music:- [Link](https://github.com/jhelumcorp/gyawun)
 
 Grayjay:- [Link](https://grayjay.app)
 
