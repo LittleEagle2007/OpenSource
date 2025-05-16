@@ -119,6 +119,8 @@ Tauon:- [Link](https://github.com/Taiko2k/Tauon)
 
 Ytmdesktop2:- [Link](https://github.com/Venipa/ytmdesktop2)
 
+Wora:- [Link](https://github.com/hiaaryan/wora)
+
 # Multi
 
 Gyawun Music:- [Link](https://github.com/jhelumcorp/gyawun)
