@@ -97,6 +97,8 @@ Miru:- [Link](https://github.com/ThaUnknown/miru)
 
 Moosync:- [Link](https://github.com/Moosync/Moosync)
 
+Muffon:- [Link](https://muffon.netlify.app)
+
 NanaZip:- [Link](https://github.com/M2Team/NanaZip)
 
 Nora:- [Link](https://noramusic.netlify.app)
@@ -122,6 +124,8 @@ Ytmdesktop2:- [Link](https://github.com/Venipa/ytmdesktop2)
 Gyawun Music:- [Link](https://github.com/jhelumcorp/gyawun)
 
 Grayjay:- [Link](https://grayjay.app)
+
+Harmonoid:- [Link](https://harmonoid.com)
 
 KDE Connect:- [Link](https://kdeconnect.kde.org)
 
