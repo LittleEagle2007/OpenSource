@@ -89,7 +89,17 @@ YTDLnis:- [Link](https://ytdlnis.org)
 
 # PC
 
+ADB AppControl:- [Link](https://adbappcontrol.com/en)
+
 Akuse:- [Link](https://github.com/akuse-app/Akuse)
+
+CrystalDiskInfo:- [Link](https://crystalmark.info/en/software/crystaldiskinfo)
+
+File Converter:- [Link](https://file-converter.io)
+
+HandBrake:- [Link](https://handbrake.fr)
+
+
 
 HakuNeko Manga & Anime Downloader:- [Link](https://hakuneko.download/)
 
@@ -105,9 +115,13 @@ Nora:- [Link](https://noramusic.netlify.app)
 
 Open Video Downloader:- [Link](https://github.com/StefanLobbenmeier/youtube-dl-gui)
 
+PasteBar:- [Link](https://www.pastebar.app)
+
 Parabolic:- [Link](https://github.com/NickvisionApps/Parabolic)
 
 Screenbox:- [Link](https://github.com/huynhsontung/Screenbox)
+
+Scrcpy:- [Link](https://github.com/Genymobile/scrcpy)
 
 TrafficMonitor:- [Link](https://github.com/zhongyang219/TrafficMonitor/tree/master)
 
