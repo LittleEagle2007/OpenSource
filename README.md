@@ -95,6 +95,8 @@ Akuse:- [Link](https://github.com/akuse-app/Akuse)
 
 CrystalDiskInfo:- [Link](https://crystalmark.info/en/software/crystaldiskinfo)
 
+Everything:- [Link](https://www.voidtools.com)
+
 File Converter:- [Link](https://file-converter.io)
 
 HandBrake:- [Link](https://handbrake.fr)
@@ -121,6 +123,8 @@ PasteBar:- [Link](https://www.pastebar.app)
 
 Parabolic:- [Link](https://github.com/NickvisionApps/Parabolic)
 
+QuickLook:- [Link](https://github.com/QL-Win/QuickLook)
+
 Screenbox:- [Link](https://github.com/huynhsontung/Screenbox)
 
 ShareX:- [Link](https://getsharex.com)
@@ -141,6 +145,10 @@ Ytmdesktop2:- [Link](https://github.com/Venipa/ytmdesktop2)
 
 Wora:- [Link](https://github.com/hiaaryan/wora)
 
+WinfrGUI:- [Link](https://www.winfr.org)
+
+Zen Browser:- [Link](https://zen-browser.app)
+
 # Multi
 
 Gyawun Music:- [Link](https://github.com/jhelumcorp/gyawun)
@@ -148,6 +156,8 @@ Gyawun Music:- [Link](https://github.com/jhelumcorp/gyawun)
 Grayjay:- [Link](https://grayjay.app)
 
 Harmonoid:- [Link](https://harmonoid.com)
+
+Joplin:- [Link](https://joplinapp.org)
 
 KDE Connect:- [Link](https://kdeconnect.kde.org)
 
