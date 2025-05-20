@@ -49,8 +49,6 @@ LinkSheet:- [Link](https://github.com/LinkSheet/LinkSheet)
 
 LNReader:- [Link](https://lnreader.github.io)
 
-LocalSend:- [Link](https://localsend.org)
-
 Linkora:-[Link](https://github.com/LinkoraApp/Linkora)
 
 Monocles Browser:- [Link](https://f-droid.org/en/packages/de.monocles.browser)
@@ -91,6 +89,8 @@ YTDLnis:- [Link](https://ytdlnis.org)
 
 ADB AppControl:- [Link](https://adbappcontrol.com/en)
 
+Audacity:- [Link](https://www.audacityteam.org)
+
 Akuse:- [Link](https://github.com/akuse-app/Akuse)
 
 CrystalDiskInfo:- [Link](https://crystalmark.info/en/software/crystaldiskinfo)
@@ -99,13 +99,15 @@ File Converter:- [Link](https://file-converter.io)
 
 HandBrake:- [Link](https://handbrake.fr)
 
-
+HWiNFO64:- [Link](https://www.hwinfo.com)
 
 HakuNeko Manga & Anime Downloader:- [Link](https://hakuneko.download/)
 
 Miru:- [Link](https://github.com/ThaUnknown/miru)
 
 Moosync:- [Link](https://github.com/Moosync/Moosync)
+
+Mem Reduct:- [Link](https://memreduct.org)
 
 Muffon:- [Link](https://muffon.netlify.app)
 
@@ -121,7 +123,11 @@ Parabolic:- [Link](https://github.com/NickvisionApps/Parabolic)
 
 Screenbox:- [Link](https://github.com/huynhsontung/Screenbox)
 
+ShareX:- [Link](https://getsharex.com)
+
 Scrcpy:- [Link](https://github.com/Genymobile/scrcpy)
+
+SumatraPDF:- [Link](https://www.sumatrapdfreader.org/free-pdf-reader)
 
 TrafficMonitor:- [Link](https://github.com/zhongyang219/TrafficMonitor/tree/master)
 
@@ -144,6 +150,8 @@ Grayjay:- [Link](https://grayjay.app)
 Harmonoid:- [Link](https://harmonoid.com)
 
 KDE Connect:- [Link](https://kdeconnect.kde.org)
+
+LocalSend:- [Link](https://localsend.org)
 
 Migu:- [Link](https://miguapp.pages.dev)
 
