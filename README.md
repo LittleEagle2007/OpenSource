@@ -51,6 +51,8 @@ LNReader:- [Link](https://lnreader.github.io)
 
 Linkora:-[Link](https://github.com/LinkoraApp/Linkora)
 
+MMRL:- [Link](https://mmrl.dev)
+
 Monocles Browser:- [Link](https://f-droid.org/en/packages/de.monocles.browser)
 
 Nekogram X:- [Link](https://nekogram.app)
