@@ -41,6 +41,8 @@ IronFox:- [Link](https://github.com/ironfox-oss/IronFox)
 
 Iceraven Browser:- [Link](https://github.com/fork-maintainers/iceraven-browser)
 
+Install with Options:- [Link](https://github.com/zacharee/InstallWithOptions)
+
 Kotatsu:- [Link](https://kotatsu.app)
 
 Kitsune:- [Link](https://github.com/Drumber/Kitsune)
