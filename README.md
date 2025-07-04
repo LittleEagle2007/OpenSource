@@ -85,6 +85,8 @@ TachiyomiSY:- [Link](https://github.com/jobobby04/TachiyomiSY)
 
 Update Me:- [Link](https://github.com/anfreire/updateMe-Mobile)
 
+URLCheck:- [Link](https://github.com/TrianguloY/URLCheck)
+
 WeatherMaster:- [Link](https://github.com/PranshulGG/WeatherMaster?tab=readme-ov-file)
 
 xManager(Spotify):- [Link](https://www.xmanagerapp.com)
