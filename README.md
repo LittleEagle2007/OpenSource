@@ -23,17 +23,15 @@ Cromite:- [Link](https://github.com/uazo/cromite)
 
 CloudStream:- [Link](https://cloudstream.ws)
 
-Dantotsu:- [Link](https://github.com/rebelonion/Dantotsu)
-
 DataBackup:- [Link](https://databackupofficial.github.io)
 
 ExteraGram:-[Link](https://exteragram.app)
 
 Fossify Calendar:- [Link](https://www.fossify.org/apps)
 
-Find My Device (FMD):- [Link](https://f-droid.org/en/packages/de.nulide.findmydevice)
+FadCam:- [Link](https://fadedhood.github.io/fadcam)
 
-Fennec Browser:- [Link](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid)
+Find My Device (FMD):- [Link](https://f-droid.org/en/packages/de.nulide.findmydevice)
 
 FUTO Keyboard:- [Link](https://keyboard.futo.org)
 
@@ -48,6 +46,8 @@ Kotatsu:- [Link](https://kotatsu.app)
 Kitsune:- [Link](https://github.com/Drumber/Kitsune)
 
 Kreate:- [Link](https://github.com/knighthat/Kreate)
+
+Kapture:- [Link](https://github.com/hms-douglas/kapture)
 
 LinkSheet:- [Link](https://github.com/LinkSheet/LinkSheet)
 
@@ -76,6 +76,8 @@ SD Maid 2/SE:- [Link](https://github.com/d4rken-org/sdmaid-se)
 SlimSocial:- [Link](https://github.com/rignaneseleo/SlimSocial-for-Facebook)
 
 Showly:- [Link](http://showlyapp.com)
+
+SimpMusic:- [Link](https://github.com/maxrave-dev/SimpMusic)
 
 Termux-Monet:- [Link](https://github.com/Termux-Monet/termux-monet)
 
@@ -172,6 +174,8 @@ Joplin:- [Link](https://joplinapp.org)
 KDE Connect:- [Link](https://kdeconnect.kde.org)
 
 LocalSend:- [Link](https://localsend.org)
+
+Mirarr:- [Link](https://github.com/mirarr-app/mirarr)
 
 Migu:- [Link](https://miguapp.pages.dev)
 
