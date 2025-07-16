@@ -35,6 +35,8 @@ Find My Device (FMD):- [Link](https://f-droid.org/en/packages/de.nulide.findmyde
 
 FUTO Keyboard:- [Link](https://keyboard.futo.org)
 
+Feeder:- [Link](https://github.com/spacecowboy/Feeder)
+
 IronFox:- [Link](https://github.com/ironfox-oss/IronFox)
 
 Iceraven Browser:- [Link](https://github.com/fork-maintainers/iceraven-browser)
@@ -68,6 +70,8 @@ Nobook:- [Link](https://github.com/ycngmn/Nobook)
 Notally:- [Link](https://github.com/OmGodse/Notally)
 
 Obtainium:- [Link](https://github.com/ImranR98/Obtainium)
+
+Oinkoin:- [Link](https://github.com/emavgl/oinkoin)
 
 RiMusic:- [Link](https://github.com/fast4x/RiMusic)
 
