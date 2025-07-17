@@ -153,6 +153,8 @@ TrafficMonitor:- [Link](https://github.com/zhongyang219/TrafficMonitor/tree/mast
 
 Unyo:- [Link](https://github.com/K3vinb5/Unyo)
 
+Upscayl:- [Link](https://github.com/upscayl/upscayl)
+
 Tartube:- [Link](https://github.com/axcore/tartube)
 
 Tauon:- [Link](https://github.com/Taiko2k/Tauon)
