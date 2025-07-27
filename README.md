@@ -139,6 +139,8 @@ Parabolic:- [Link](https://github.com/NickvisionApps/Parabolic)
 
 QuickLook:- [Link](https://github.com/QL-Win/QuickLook)
 
+Sucrose Wallpaper Engine:- [Link](https://taiizor.github.io/Sucrose)
+
 Screenbox:- [Link](https://github.com/huynhsontung/Screenbox)
 
 ShareX:- [Link](https://getsharex.com)
