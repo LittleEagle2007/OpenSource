@@ -171,6 +171,8 @@ Zen Browser:- [Link](https://zen-browser.app)
 
 # Multi
 
+AnymeX:- [Link](https://anymex.vercel.app)
+
 Gyawun Music:- [Link](https://github.com/jhelumcorp/gyawun)
 
 Grayjay:- [Link](https://grayjay.app)
