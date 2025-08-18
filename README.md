@@ -21,13 +21,13 @@ Ceno Browser:- [Link](https://censorship.no/en/index.html)
 
 Cromite:- [Link](https://github.com/uazo/cromite)
 
-CloudStream:- [Link](https://cloudstream.ws)
+CloudStream:- [Link](https://github.com/recloudstream/cloudstream)
 
 DataBackup:- [Link](https://databackupofficial.github.io)
 
 ExteraGram:-[Link](https://exteragram.app)
 
-Fossify Calendar:- [Link](https://www.fossify.org/apps)
+Fossify Calendar:- [Link](https://github.com/FossifyOrg/Calendar)
 
 FadCam:- [Link](https://fadedhood.github.io/fadcam)
 
