@@ -125,7 +125,7 @@ HWiNFO64:- [Link](https://www.hwinfo.com)
 
 HakuNeko Manga & Anime Downloader:- [Link](https://hakuneko.download/)
 
-Miru:- [Link](https://github.com/ThaUnknown/miru)
+Hayase:- [Link](https://hayase.watch)
 
 Moosync:- [Link](https://github.com/Moosync/Moosync)
 
