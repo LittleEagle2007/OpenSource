@@ -197,6 +197,8 @@ Mirarr:- [Link](https://github.com/mirarr-app/mirarr)
 
 Migu:- [Link](https://miguapp.pages.dev)
 
+Shiru:- [Link](https://github.com/RockinChaos/Shiru)
+
 Spotube:- [Link](https://spotube.krtirtho.dev)
 
 Sefirah:- [Link](https://github.com/shrimqy/Sefirah)
