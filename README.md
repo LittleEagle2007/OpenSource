@@ -159,6 +159,8 @@ Station:- [Link](https://getstation.com)
 
 Sparkle:- [Link](https://github.com/parcoil/sparkle)
 
+Seanime:- [Link](https://seanime.rahim.app)
+
 TrafficMonitor:- [Link](https://github.com/zhongyang219/TrafficMonitor/tree/master)
 
 Unyo:- [Link](https://github.com/K3vinb5/Unyo)
@@ -196,6 +198,8 @@ LocalSend:- [Link](https://localsend.org)
 Mirarr:- [Link](https://github.com/mirarr-app/mirarr)
 
 Migu:- [Link](https://miguapp.pages.dev)
+
+Mangayomi:- [Link](https://github.com/kodjodevf/mangayomi)
 
 Shiru:- [Link](https://github.com/RockinChaos/Shiru)
 
