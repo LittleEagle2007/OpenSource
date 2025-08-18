@@ -89,7 +89,7 @@ Showly:- [Link](http://showlyapp.com)
 
 SimpMusic:- [Link](https://github.com/maxrave-dev/SimpMusic)
 
-Termux-Monet:- [Link](https://github.com/Termux-Monet/termux-monet)
+Termux:- [Link](https://github.com/termux/termux-app)
 
 ToDark:- [Link](https://github.com/darkmoonight/ToDark)
 
