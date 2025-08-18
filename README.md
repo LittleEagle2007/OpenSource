@@ -57,6 +57,8 @@ LNReader:- [Link](https://lnreader.github.io)
 
 Linkora:-[Link](https://github.com/LinkoraApp/Linkora)
 
+ LibreTube:- [Link](https://libretube.dev)
+
 MMRL:- [Link](https://mmrl.dev)
 
 Monocles Browser:- [Link](https://f-droid.org/en/packages/de.monocles.browser)
@@ -69,11 +71,15 @@ Nobook:- [Link](https://github.com/ycngmn/Nobook)
 
 Notally:- [Link](https://github.com/OmGodse/Notally)
 
+Next Player:- [Link](https://github.com/anilbeesetti/nextplayer)
+
 Obtainium:- [Link](https://github.com/ImranR98/Obtainium)
 
 Oinkoin:- [Link](https://github.com/emavgl/oinkoin)
 
 RiMusic:- [Link](https://github.com/fast4x/RiMusic)
+
+Read You:- [Link](https://github.com/ReadYouApp/ReadYou)
 
 SD Maid 2/SE:- [Link](https://github.com/d4rken-org/sdmaid-se)
 
@@ -150,6 +156,8 @@ Scrcpy:- [Link](https://github.com/Genymobile/scrcpy)
 SumatraPDF:- [Link](https://www.sumatrapdfreader.org/free-pdf-reader)
 
 Station:- [Link](https://getstation.com)
+
+Sparkle:- [Link](https://github.com/parcoil/sparkle)
 
 TrafficMonitor:- [Link](https://github.com/zhongyang219/TrafficMonitor/tree/master)
 
