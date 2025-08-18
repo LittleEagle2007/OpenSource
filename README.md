@@ -5,7 +5,7 @@
 
 ![Image](https://github.com/user-attachments/assets/ba8fc520-199d-4203-bf78-d38f0df02565)
 
-[Image](https://github.com/OxygenCobalt/Auxio/raw/dev/fastlane/metadata/android/en-US/images/icon.png) Auxio:- [Link](https://github.com/OxygenCobalt/Auxio)
+![Image](https://github.com/OxygenCobalt/Auxio/raw/dev/fastlane/metadata/android/en-US/images/icon.png) Auxio:- [Link](https://github.com/OxygenCobalt/Auxio)
 
 AzyX:- [Link](https://github.com/reyyuuki/Azyx)
 
