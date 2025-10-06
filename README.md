@@ -57,7 +57,9 @@ LNReader:- [Link](https://lnreader.github.io)
 
 Linkora:-[Link](https://github.com/LinkoraApp/Linkora)
 
- LibreTube:- [Link](https://libretube.dev)
+LTE Cleaner FOSS:- [Link](https://mdp43140.github.io/LTECleanerFOSS)
+
+LibreTube:- [Link](https://libretube.dev)
 
 MMRL:- [Link](https://mmrl.dev)
 
@@ -69,6 +71,8 @@ Namida:- [Link](https://namidaapk.com)
 
 Nobook:- [Link](https://github.com/ycngmn/Nobook)
 
+Nora:- [Link](https://github.com/nonbili/Nora)
+
 Notally:- [Link](https://github.com/OmGodse/Notally)
 
 Next Player:- [Link](https://github.com/anilbeesetti/nextplayer)
@@ -77,9 +81,13 @@ Obtainium:- [Link](https://github.com/ImranR98/Obtainium)
 
 Oinkoin:- [Link](https://github.com/emavgl/oinkoin)
 
+PixelPlay:- [Link](https://github.com/theovilardo/PixelPlay)
+
 RiMusic:- [Link](https://github.com/fast4x/RiMusic)
 
 Read You:- [Link](https://github.com/ReadYouApp/ReadYou)
+
+Round Sync:- [Link](https://github.com/newhinton/Round-Sync)
 
 SD Maid 2/SE:- [Link](https://github.com/d4rken-org/sdmaid-se)
 
@@ -99,7 +107,7 @@ Update Me:- [Link](https://github.com/anfreire/updateMe-Mobile)
 
 URLCheck:- [Link](https://github.com/TrianguloY/URLCheck)
 
-WeatherMaster:- [Link](https://github.com/PranshulGG/WeatherMaster?tab=readme-ov-file)
+WeatherMaster:- [Link](https://github.com/PranshulGG/WeatherMaster)
 
 xManager(Spotify):- [Link](https://www.xmanagerapp.com)
 
