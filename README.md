@@ -43,6 +43,8 @@ Iceraven Browser:- [Link](https://github.com/fork-maintainers/iceraven-browser)
 
 Install with Options:- [Link](https://github.com/zacharee/InstallWithOptions)
 
+InstallerX Revived:- [Link](https://github.com/wxxsfxyzm/InstallerX-Revived)
+
 Kotatsu:- [Link](https://kotatsu.app)
 
 Kitsune:- [Link](https://github.com/Drumber/Kitsune)
@@ -82,6 +84,8 @@ Obtainium:- [Link](https://github.com/ImranR98/Obtainium)
 Oinkoin:- [Link](https://github.com/emavgl/oinkoin)
 
 PixelPlay:- [Link](https://github.com/theovilardo/PixelPlay)
+
+Privacium:- [Link](https://github.com/kaleedtc/Privacium)
 
 RiMusic:- [Link](https://github.com/fast4x/RiMusic)
 
