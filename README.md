@@ -109,6 +109,8 @@ URLCheck:- [Link](https://github.com/TrianguloY/URLCheck)
 
 WeatherMaster:- [Link](https://github.com/PranshulGG/WeatherMaster)
 
+Wall You:- [Link](https://github.com/you-apps/WallYou)
+
 xManager(Spotify):- [Link](https://www.xmanagerapp.com)
 
 YTDLnis:- [Link](https://ytdlnis.org)
