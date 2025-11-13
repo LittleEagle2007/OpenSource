@@ -133,6 +133,8 @@ Everything:- [Link](https://www.voidtools.com)
 
 File Converter:- [Link](https://file-converter.io)
 
+Flow Launcher:- [Link](https://www.flowlauncher.com)
+
 HandBrake:- [Link](https://handbrake.fr)
 
 HWiNFO64:- [Link](https://www.hwinfo.com)
