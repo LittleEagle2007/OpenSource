@@ -23,6 +23,8 @@ Cromite:- [Link](https://github.com/uazo/cromite)
 
 CloudStream:- [Link](https://github.com/recloudstream/cloudstream)
 
+Dragon Store:- [Link](https://github.com/jpdoshi/dragon-store)
+
 DataBackup:- [Link](https://databackupofficial.github.io)
 
 ExteraGram:-[Link](https://exteragram.app)
@@ -37,6 +39,8 @@ FUTO Keyboard:- [Link](https://keyboard.futo.org)
 
 Feeder:- [Link](https://github.com/spacecowboy/Feeder)
 
+GitHub Store:-[Link](https://github.com/rainxchzed/Github-Store)
+
 IronFox:- [Link](https://github.com/ironfox-oss/IronFox)
 
 Iceraven Browser:- [Link](https://github.com/fork-maintainers/iceraven-browser)
@@ -45,7 +49,7 @@ Install with Options:- [Link](https://github.com/zacharee/InstallWithOptions)
 
 InstallerX Revived:- [Link](https://github.com/wxxsfxyzm/InstallerX-Revived)
 
-Kotatsu:- [Link](https://kotatsu.app)
+Kotatsu-Redo:- [Link](https://github.com/Kotatsu-Redo/Kotatsu-Redo)
 
 Kitsune:- [Link](https://github.com/Drumber/Kitsune)
 
@@ -83,7 +87,9 @@ Obtainium:- [Link](https://github.com/ImranR98/Obtainium)
 
 Oinkoin:- [Link](https://github.com/emavgl/oinkoin)
 
-PixelPlay:- [Link](https://github.com/theovilardo/PixelPlay)
+OrionStore:-[Link](https://github.com/RookieEnough/Orion-Store)
+
+PixelPlayer:- [Link](https://github.com/theovilardo/PixelPlayer)
 
 Privacium:- [Link](https://github.com/kaleedtc/Privacium)
 
