@@ -125,6 +125,8 @@ xManager(Spotify):- [Link](https://www.xmanagerapp.com)
 
 YTDLnis:- [Link](https://ytdlnis.org)
 
+Zapstore:- [Link](https://zapstore.dev)
+
 # PC
 
 ADB AppControl:- [Link](https://adbappcontrol.com/en)
