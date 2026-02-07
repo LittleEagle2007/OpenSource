@@ -59,6 +59,8 @@ Kapture:- [Link](https://github.com/hms-douglas/kapture)
 
 LinkSheet:- [Link](https://github.com/LinkSheet/LinkSheet)
 
+LibreFind:- [Link](https://github.com/jksalcedo/librefind)
+
 LNReader:- [Link](https://lnreader.github.io)
 
 Linkora:-[Link](https://github.com/LinkoraApp/Linkora)
@@ -116,6 +118,8 @@ TachiyomiSY:- [Link](https://github.com/jobobby04/TachiyomiSY)
 Update Me:- [Link](https://github.com/anfreire/updateMe-Mobile)
 
 URLCheck:- [Link](https://github.com/TrianguloY/URLCheck)
+
+VendroidEnhanced:- [Link](https://vendroid.nin0.dev)
 
 WeatherMaster:- [Link](https://github.com/PranshulGG/WeatherMaster)
 
