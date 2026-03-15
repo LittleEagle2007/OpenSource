@@ -5,8 +5,6 @@
 
 ![Image](https://github.com/user-attachments/assets/ba8fc520-199d-4203-bf78-d38f0df02565)
 
-Auxio:- [Link](https://github.com/OxygenCobalt/Auxio)
-
 AzyX:- [Link](https://github.com/reyyuuki/Azyx)
 
 Anilab:- [Link](https://anilab.to)
