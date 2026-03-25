@@ -1,8 +1,6 @@
 ![logo](https://github.com/user-attachments/assets/87131d2e-10bb-405e-9240-3d589b9ef9e2)
 
-# open source softwares for both pc and android 
-
-APKUpdater:- [Link](https://github.com/rumboalla/apkupdater)
+# open source softwares for both pc and android
 
 Amarok:- [Link](https://deltazefiro.github.io/Amarok-doc/en-US)
 
