@@ -2,11 +2,6 @@
 
 # open source softwares for both pc and android 
 
-
-![Image](https://github.com/user-attachments/assets/ba8fc520-199d-4203-bf78-d38f0df02565)
-
-Anilab:- [Link](https://anilab.to)
-
 APKUpdater:- [Link](https://github.com/rumboalla/apkupdater)
 
 Amarok:- [Link](https://deltazefiro.github.io/Amarok-doc/en-US)
